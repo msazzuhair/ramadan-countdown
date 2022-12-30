@@ -1,4 +1,5 @@
-# ramadhan-countdown
+# Ramadan Countdown
+![preview](https://user-images.githubusercontent.com/15320135/210055785-ea513216-b9c0-4cd4-a965-9d1fa2e89e13.png)
 
 ## Project setup
 ```
@@ -19,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
