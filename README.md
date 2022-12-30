@@ -20,3 +20,8 @@ npm run build
 ```
 npm run lint
 ```
+
+### License
+This project is licensed under the [GPL-3.0 license](https://opensource.org/licenses/GPL-3.0)
+
+The illustration used in this project is made by <a href="https://www.freepik.com/free-psd/3d-background-ramadan-with-palace-clouds_25264829.htm#&position=12&from_view=collections">Freepik</a>
